@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://24-casino-14.onrender.com/sitemap.xml
+Sitemap: https://two4-casino-14.onrender.com/sitemap.xml
